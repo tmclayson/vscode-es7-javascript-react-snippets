@@ -1,3 +1,5 @@
+Forked purely to add semi-colons to the end of each statement. 
+
 # VS Code ES7 React/Redux/React-Native/JS snippets
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/dsznajder.es7-react-js-snippets.svg)](https://vsmarketplacebadge.apphb.com/version-short/dsznajder.es7-react-js-snippets.svg)
